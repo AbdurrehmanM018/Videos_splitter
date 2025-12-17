@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "keys": {
+    "PUT_SHA256_HASH_HERE": { "name": "MyFriend", "expires": "2026-12-31" }
+  }
+}
