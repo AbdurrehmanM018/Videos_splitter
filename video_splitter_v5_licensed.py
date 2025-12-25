@@ -32,7 +32,7 @@ except ImportError:
 
 LICENSE_REGISTRY_URL = os.environ.get(
     "VIDEO_SPLITTER_LICENSE_URL",
-    "https://raw.githubusercontent.com/AbdurrehmanM018/Videos_splitter/refs/heads/main/splitter.json"  # <-- replace with your URL
+    "https://raw.githubusercontent.com/AbdurrehmanM018/Videos_splitter/refs/heads/main/video_splitter_license.json"  # <-- replace with your URL
 )
 
 GRACE_DAYS_OFFLINE = int(os.environ.get("VIDEO_SPLITTER_GRACE_DAYS", "3"))
