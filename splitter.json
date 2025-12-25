@@ -1,6 +1,13 @@
 {
   "enabled": true,
   "keys": {
-    "0ea4449600f6aaf2f22bf290f5620eece8bbc4cf143b69294822aaa32219c29c": { "name": "MyFriend", "expires": "2026-12-31" }
+    "876aff2c4f612431adbb66a49b43bb56af842cd905481937770c0506de48b973": {
+      "name": "MyFriend",
+      "expires": "2026-12-31"
+    },
+    "0ea4449600f6aaf2f22bf290f5620eece8bbc4cf143b69294822aaa32219c29c": {
+      "name": "Ahmad Ali",
+      "expires": "2026-12-31"
+    }
   }
 }
